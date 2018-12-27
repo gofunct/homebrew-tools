@@ -1,4 +1,4 @@
-class Grapi < Formula
+class Hackit < Formula
   VERSION = "0.1".freeze
   NAME = "hackit".freeze
   REPO = "gofunct/#{NAME}".freeze
