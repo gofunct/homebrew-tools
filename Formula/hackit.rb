@@ -9,7 +9,7 @@ class Hackit < Formula
   homepage "https://github.com/#{REPO}"
   url "https://github.com/#{REPO}/releases/download/v#{VERSION}/#{BIN}"
   version VERSION
-  sha256 "528960042fadfdba78281e9990a327ae37741ce6"
+  sha256 "7cc43f14b9273a1ccc94cdedde44b1043d748e58e3d03429d3b8d9e5b9eb59c9"
 
 
   head do
